@@ -3,7 +3,7 @@
     height:1400px;
     background-color:red;
     display:flex;
-    align-items: center;
+    align-items: start;
     justify-content: center;
 }
 
